@@ -4,4 +4,4 @@ Here you'll find a mix of my personal projects, open-source contributions, and p
 
 I'm a firm believer in both leg day and reading documentation – if I don't know it, I'll learn it.
 
-Feel free to explore my [repositories](https://github.com/VIRUXE?tab=repositories) and [gists](https://gist.github.com/VIRUXE), and drop me an [e-mail](mailto://flavioaspereira@gmail.com) if you'd like to chat.
+Feel free to explore my [repositories](https://github.com/VIRUXE?tab=repositories) and [gists](https://gist.github.com/VIRUXE), and drop me an [e-mail](mailto://me@flaviopereira.dev) if you'd like to chat.
